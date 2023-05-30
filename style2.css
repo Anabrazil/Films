@@ -1,0 +1,125 @@
+body {
+font-family: sans-serif;
+}
+.ninina {
+font-size: 30px;
+text-decoration: none;
+color: black;
+font-family:monospace;
+}
+header {
+background-color: wheat;
+}
+h1 {
+font-size: 29px;
+font-family:monospace;
+}
+h1 img {
+height:60px;
+width: 60px;
+}
+.hehe {
+font-size: 22px;
+}
+h2 {
+font-size: 29px;
+font-family:monospace;
+}
+h2 img {
+height: 70px;
+width: 100px;
+}
+.hi {
+height: 310px;
+width: 320px;
+}
+h3 {
+font-size: 29px;
+font-family:monospace;
+}
+h3 img {
+height: 100px;
+width: 100px;
+}
+.lala {
+height: 310px;
+width: 370px;
+}
+h4 {
+font-size: 29px;
+font-family:monospace;
+}
+h4 img {
+height: 100px;
+width: 80px;
+}
+h5 {
+font-size: 29px;
+font-family:monospace;
+}
+h5 img {
+height: 80px;
+width: 80px;
+}
+h6 {
+font-size: 29px;
+font-family:monospace;
+}
+h6 img {
+height: 100px;
+width: 100px;
+}
+h7 {
+font-size: 29px;
+font-family:monospace;
+}
+.kvati {
+text-decoration: none;
+font-size: 30px;
+color: black;
+border: 5px solid black;
+padding: 6px;
+margin: auto;
+border-radius: 10px;
+background-color: coral;
+font-family: monospace;
+}
+table {
+border: 5px solid black;
+}
+td {
+border: 5px solid black;
+color: red;
+}
+h7 {
+font-size: 29px;
+font-family:monospace;
+}
+.oe {
+text-align: center;
+
+}
+.lolo {
+float: left;
+}
+.vovo {
+float: right;
+}
+.nana {
+height: 200px;
+width: 200px;
+}
+.lili {
+font-size: 30px;
+text-decoration: none;
+color: black;
+font-family: monospace;
+}
+.sisi {
+font-size: 20px;
+text-align: center;
+font-family: cursive;
+}
+.so {
+font-size: 19px;
+}
